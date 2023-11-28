@@ -15,8 +15,6 @@ Before you begin, ensure you have the following installed on your machine:
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
 
-markdown
-Copy code
 # React Task Management App
 
 This React application allows users to manage tasks by providing features such as adding new tasks, editing existing tasks, marking tasks as completed, and deleting tasks.
