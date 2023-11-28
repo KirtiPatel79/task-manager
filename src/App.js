@@ -1,6 +1,7 @@
 import React, { useState,useEffect } from 'react';
 import TaskList from './Components/TaskList';
 import AddTaskForm from './Components/AddTask';
+import Swal from 'sweetalert2';
 import EditTaskForm from './Components/EditTask';
 import './App.css';
 
@@ -24,7 +25,28 @@ const App = () => {
   };
 
   const deleteTask = (id) => {
-    setTasks(tasks.filter((task) => task.id !== id));
+    // Display a confirmation dialog using SweetAlert2
+    Swal.fire({
+      title: 'Are you sure?',
+      text: "You won't be able to revert this!",
+      icon: 'warning',
+      showCancelButton: true,
+      confirmButtonColor: '#3085d6',
+      cancelButtonColor: '#d33',
+      confirmButtonText: 'Yes, delete it!'
+    }).then((result) => {
+      // If the user confirms, delete the task
+      if (result.isConfirmed) {
+        setTasks(tasks.filter((task) => task.id !== id));
+  
+        // Display a success message using SweetAlert2
+        Swal.fire({
+          title: 'Deleted!',
+          text: 'Your file has been deleted.',
+          icon: 'success'
+        });
+      }
+    });
   };
 
   const toggleTask = (id) => {
