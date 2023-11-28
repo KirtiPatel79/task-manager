@@ -66,6 +66,7 @@ Before you begin, ensure you have the following installed on your machine:
 ## Features
 Add Task:
 Users can add new tasks with a task name, description, and priority level.
+The taskname field is mandatory.
 
 Edit Task:
 Users can edit the task name, description, and priority level for existing tasks.
@@ -93,3 +94,14 @@ Click the "Delete" button next to the task you want to delete.
 Mark as Completed:
 
 Check the checkbox next to the task to mark it as completed.
+
+![Screenshot 2023-11-28 234717](https://github.com/KirtiPatel79/task-manager/assets/112560742/3b465724-6894-4900-8d50-cfbcbe78d065)
+![Screenshot 2023-11-28 234632](https://github.com/KirtiPatel79/task-manager/assets/112560742/e1bc06d8-39f0-4772-9447-4eda647c5f5f)
+![Screenshot 2023-11-28 234917](https://github.com/KirtiPatel79/task-manager/assets/112560742/d23bf92e-0659-43f9-a54d-5c98eb826828)
+![Screenshot 2023-11-28 234820](https://github.com/KirtiPatel79/task-manager/assets/112560742/c2dfc1df-72e1-4af6-b475-ae20073e1ce6)
+![Screenshot 2023-11-28 234742](https://github.com/KirtiPatel79/task-manager/assets/112560742/34e029a5-21f5-45fe-8b55-b6e762716e9a)
+
+
+
+https://github.com/KirtiPatel79/task-manager/assets/112560742/c6736aae-edf1-4931-90eb-28d7956a5ab6
+
