@@ -91,6 +91,10 @@ Check the checkbox next to the task to mark it as completed.
 ![Screenshot 2023-11-28 234742](https://github.com/KirtiPatel79/task-manager/assets/112560742/34e029a5-21f5-45fe-8b55-b6e762716e9a)
 
 
+https://github.com/KirtiPatel79/task-manager/assets/112560742/d998117a-8e82-45e2-9cbc-792f5c79da0a
+
+
+
 
 https://github.com/KirtiPatel79/task-manager/assets/112560742/c6736aae-edf1-4931-90eb-28d7956a5ab6
 
