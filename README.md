@@ -14,15 +14,6 @@ Before you begin, ensure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/) (version 14 or later)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
-## Getting Started
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/your-task-app.git
-   cd your-task-app
-
-Certainly! Here's a basic template for your README.md file to guide users on how to run and use your React task management application:
 
 markdown
 Copy code
